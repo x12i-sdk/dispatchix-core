@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/dispatchix-core",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/dispatchix-core",
+  "usageRepository": "https://github.com/x12i-sdk/dispatchix-core",
+  "sourceRepository": "https://github.com/x12i/dispatchix-",
+  "sourceCommit": "cb05ff67f9ac9f18f21a7e59cd4ce73163041e8a",
+  "sourcePackageDirectory": "packages/core",
+  "example": {
+    "title": "Deduplicate, receive and complete an in-memory queue message",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:45:23.318626+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "96a943dabe8a55f7f11ee4dd7923357f367692bcf9920bd5924f22dc44d759cf",
+    "manifestSha256": "0fb8ecd944e1de1ad7030062a5654359b0d75725cc455644fe68721b1d163d72"
+  }
+}
